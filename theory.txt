@@ -361,10 +361,10 @@ finally {
 Singleton Design Pattern
 ------------------------
 
-Limits the number of instnaces of a perticular object to just one. This single instance
+Limits the number of instances of a particular object to just one. This single instance
 is called the Singleton.
 
-Singletons are useful in stuations where system wide actions need to be coorodinated 
+Singletons are useful in situations where system wide actions need to be coorodinated 
 from a single Central place
 
 E.g  Database Connection pool
